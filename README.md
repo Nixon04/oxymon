@@ -1,7 +1,7 @@
 # oxymon
 for the best authentication so far
 
-factors that affects on this written script have been null on their end 
+factors that affects on this written script have been null on this end 
 
 but areas to considered looking at also is when users are given the prompt call to send documents file or images
 it's good in the company interest to restrict and hash script every document file and image file sent on the companies database
